@@ -13,13 +13,13 @@ from tqdm import tqdm
 # POT needs to be installed for the following code to work
 # !pip install POT
 
-df = pd.read_csv('../data/user-ct-test-collection-02-with-query-frequencies-and-tokens.txt', sep='\t')
+df = pd.read_csv('../data/children-with-query-frequencies-and-tokens.txt', sep='\t')
 
-frequencies = pd.read_csv('../data/query-frequencies-precomputed.txt', sep='\t', index_col=0)
+frequencies = pd.read_csv('../data/children-children-query-frequencies-precomputed.txt', sep='\t', index_col=0)
 tokens = pd.read_csv('../data/query-tokens-precomputed.txt', sep='\t', index_col=0)
 
 # IDF scores of words
-idf_scores = pd.read_csv('../data/idf-scores-precomputed.txt', sep='\t', index_col=0)
+idf_scores = pd.read_csv('../data/children-idf-scores-precomputed.txt', sep='\t', index_col=0)
 idf_scores = idf_scores['IDF'].to_dict()
 
 # --------------------------------------------------------------------
@@ -76,7 +76,7 @@ def query_completion(query, completion_list, session_queries, alpha=0.6):
             # Add similarities of all word pairs between the candidate query and the session query,
             # weighted by the idf of the words
             for c in c_tokens:
-                for x in x_tokens:
+                for x in x_tokens: 
                     try:
                         google_model_similarity = google_model.similarity(c, x)
                     except KeyError:
@@ -115,10 +115,10 @@ def query_completion(query, completion_list, session_queries, alpha=0.6):
 
 # --------------------------------------------------------------------
 # Train and test datasets (arrays of query sessions, sorted by time increasing)
-with open('../data/train.pkl', 'rb') as f:
+with open('../data/children-train.pkl', 'rb') as f:
     train = pkl.load(f)
 
-with open('../data/test.pkl', 'rb') as f:
+with open('../data/children-test.pkl', 'rb') as f:
     test = pkl.load(f)
 
 # Flatten train dataset
