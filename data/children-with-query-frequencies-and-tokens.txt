@@ -1,604 +1,604 @@
-Query	QueryFrequency	QueryTokens
-How did paul die from fast in the fouris	1	['How', 'did', 'paul', 'die', 'from', 'fast', 'in', 'the', 'fouris']
-Fire belly toad	1	['Fire', 'belly', 'toad']
-Now im stressed out	1	['Now', 'im', 'stressed', 'out']
-fast in the fouris	1	['fast', 'in', 'the', 'fouris']
-How many phones sell in a day	1	['How', 'many', 'phones', 'sell', 'in', 'a', 'day']
-How long do toads live	1	['How', 'long', 'do', 'toads', 'live']
-amozan	1	['amozan']
-Fast and the ferious	1	['Fast', 'and', 'the', 'ferious']
-Dominic's early life in fast an ferious	1	"['Dominic', ""'s"", 'early', 'life', 'in', 'fast', 'an', 'ferious']"
-what is a cheeta	1	['what', 'is', 'a', 'cheeta']
-The song at the end of the fast and ferious 7 movie	1	['The', 'song', 'at', 'the', 'end', 'of', 'the', 'fast', 'and', 'ferious', '7', 'movie']
-The Fast and ferious 7 movie	1	['The', 'Fast', 'and', 'ferious', '7', 'movie']
-When is the Fast and ferious 9 coming in theaters	1	['When', 'is', 'the', 'Fast', 'and', 'ferious', '9', 'coming', 'in', 'theaters']
-hew was the 2nd president	1	['hew', 'was', 'the', '2nd', 'president']
-movies for to day at the edwads movie theater	1	['movies', 'for', 'to', 'day', 'at', 'the', 'edwads', 'movie', 'theater']
-Who is the voice of rupnnzel	1	['Who', 'is', 'the', 'voice', 'of', 'rupnnzel']
-tortoises	1	['tortoises']
-Hey I just met you	1	['Hey', 'I', 'just', 'met', 'you']
-Jurassic world	1	['Jurassic', 'world']
-How many langenges was Jurassic world made in	1	['How', 'many', 'langenges', 'was', 'Jurassic', 'world', 'made', 'in']
-TTM	1	['TTM']
-Google classroom	1	['Google', 'classroom']
-23rd president	1	['23rd', 'president']
-cute girls hairstyles	1	['cute', 'girls', 'hairstyles']
-pintrest	1	['pintrest']
-Fantastic hair doos	1	['Fantastic', 'hair', 'doos']
-Character from monster high	1	['Character', 'from', 'monster', 'high']
-example of a leamer	1	['example', 'of', 'a', 'leamer']
-taler swift	1	['taler', 'swift']
-monster high move boo york boo york	1	['monster', 'high', 'move', 'boo', 'york', 'boo', 'york']
-why does the poler bear have white fur	1	['why', 'does', 'the', 'poler', 'bear', 'have', 'white', 'fur']
-Whoh played Ioin hide from transformers	1	['Whoh', 'played', 'Ioin', 'hide', 'from', 'transformers']
-how the chetta has spots	1	['how', 'the', 'chetta', 'has', 'spots']
-florider	1	['florider']
-tranksformers moviey	1	['tranksformers', 'moviey']
-When is the new ghost busters comeing out	1	['When', 'is', 'the', 'new', 'ghost', 'busters', 'comeing', 'out']
-spelling lity	1	['spelling', 'lity']
-cool math	1	['cool', 'math']
-armer games	1	['armer', 'games']
-who plays esan in the movie	1	['who', 'plays', 'esan', 'in', 'the', 'movie']
-is sloth the laziest animal	1	['is', 'sloth', 'the', 'laziest', 'animal']
-selelena gomez songs	1	['selelena', 'gomez', 'songs']
-frozen full movie online	1	['frozen', 'full', 'movie', 'online']
-when is Selena gomez new songs are coming out	1	['when', 'is', 'Selena', 'gomez', 'new', 'songs', 'are', 'coming', 'out']
-google classroom	1	['google', 'classroom']
-How does black and whitee cats look like	1	['How', 'does', 'black', 'and', 'whitee', 'cats', 'look', 'like']
-Who palyed kyioren	1	['Who', 'palyed', 'kyioren']
-Why do spiders have venom	1	['Why', 'do', 'spiders', 'have', 'venom']
-star wars episode 7	1	['star', 'wars', 'episode', '7']
-When is the new finding nemo movie comieng out	1	['When', 'is', 'the', 'new', 'finding', 'nemo', 'movie', 'comieng', 'out']
-Presedians	1	['Presedians']
-movies	1	['movies']
-shows	1	['shows']
-Highschool musical 2	1	['Highschool', 'musical', '2']
-Who was the actor for troy in highschool musical?	1	['Who', 'was', 'the', 'actor', 'for', 'troy', 'in', 'highschool', 'musical', '?']
-how long have lions been extirced	1	['how', 'long', 'have', 'lions', 'been', 'extirced']
-what song has these words in it	1	['what', 'song', 'has', 'these', 'words', 'in', 'it']
-Highschool musical	1	['Highschool', 'musical']
-how many miles is it to the moon?	1	['how', 'many', 'miles', 'is', 'it', 'to', 'the', 'moon', '?']
-weather	2	['weather']
-facrs	1	['facrs']
-The actor of oh from home	1	['The', 'actor', 'of', 'oh', 'from', 'home']
-Facts about pigs	1	['Facts', 'about', 'pigs']
-whatsthatsong.net	1	['whatsthatsong.net']
-Jurrasic wortl	1	['Jurrasic', 'wortl']
-When is Pokemon sun and moon coming out	1	['When', 'is', 'Pokemon', 'sun', 'and', 'moon', 'coming', 'out']
-Google docs	1	['Google', 'docs']
-images for project	1	['images', 'for', 'project']
-games	3	['games']
-images for fun	1	['images', 'for', 'fun']
-Who plays baymax?	1	['Who', 'plays', 'baymax', '?']
-What is a bear?	1	['What', 'is', 'a', 'bear', '?']
-Who is the name of a Macdre song?	1	['Who', 'is', 'the', 'name', 'of', 'a', 'Macdre', 'song', '?']
-Draft Day movie	1	['Draft', 'Day', 'movie']
-oldest person ever	1	['oldest', 'person', 'ever']
-websites for facts	1	['websites', 'for', 'facts']
-images	1	['images']
-Alrin and the chickmuelcs  	1	['Alrin', 'and', 'the', 'chickmuelcs']
-Why do flamingo get there feey on to other	1	['Why', 'do', 'flamingo', 'get', 'there', 'feey', 'on', 'to', 'other']
-Songs buy Charlie Puth	1	['Songs', 'buy', 'Charlie', 'Puth']
-titanic full movie	1	['titanic', 'full', 'movie']
-how many four movies are there	1	['how', 'many', 'four', 'movies', 'are', 'there']
-i skarch of word work	1	['i', 'skarch', 'of', 'word', 'work']
-Who plays Harry Potter	1	['Who', 'plays', 'Harry', 'Potter']
-fact on tigers	1	['fact', 'on', 'tigers']
-Songs by talor swift	1	['Songs', 'by', 'talor', 'swift']
-Harry potter sward in the stone	1	['Harry', 'potter', 'sward', 'in', 'the', 'stone']
-Who is the 30th president of the usa	1	['Who', 'is', 'the', '30th', 'president', 'of', 'the', 'usa']
-weather	2	['weather']
-games	3	['games']
-who was the huray in the moive the Larax?	1	['who', 'was', 'the', 'huray', 'in', 'the', 'moive', 'the', 'Larax', '?']
-Facts about dogs	1	['Facts', 'about', 'dogs']
-why is the sun hot	1	['why', 'is', 'the', 'sun', 'hot']
-Fast and the furiouse cast	1	['Fast', 'and', 'the', 'furiouse', 'cast']
-monkeys	1	['monkeys']
-Deathly Hallows part 2	1	['Deathly', 'Hallows', 'part', '2']
-new finding nemo movie	1	['new', 'finding', 'nemo', 'movie']
-give me information about a giraf	1	['give', 'me', 'information', 'about', 'a', 'giraf']
-finding nemo movie	1	['finding', 'nemo', 'movie']
-how do scintest know all of this knoledg	1	['how', 'do', 'scintest', 'know', 'all', 'of', 'this', 'knoledg']
-youtube videos	1	['youtube', 'videos']
-math problems	1	['math', 'problems']
-from superman	1	['from', 'superman']
-facts about tigers	1	['facts', 'about', 'tigers']
-new maclelamore song	1	['new', 'maclelamore', 'song']
-Superman movie	1	['Superman', 'movie']
-how do seahorces swim	1	['how', 'do', 'seahorces', 'swim']
-basketball cards	1	['basketball', 'cards']
-lighting rods	1	['lighting', 'rods']
-Actor of Hulk in Avengers	1	['Actor', 'of', 'Hulk', 'in', 'Avengers']
-Info on foxes	1	['Info', 'on', 'foxes']
-G-Fazzy newst song	1	['G-Fazzy', 'newst', 'song']
-Avengers movie	1	['Avengers', 'movie']
-Date of Jonh F Kennady's death	1	"['Date', 'of', 'Jonh', 'F', 'Kennady', ""'s"", 'death']"
-TTM 	1	['TTM']
-youtube	4	['youtube']
-How is b-b-8 so real?	1	['How', 'is', 'b-b-8', 'so', 'real', '?']
-Wgat is so important about tigers	1	['Wgat', 'is', 'so', 'important', 'about', 'tigers']
-What is the weeknds most famous song	1	['What', 'is', 'the', 'weeknds', 'most', 'famous', 'song']
-The new starwars	1	['The', 'new', 'starwars']
-When is the new ghost busters coming out	1	['When', 'is', 'the', 'new', 'ghost', 'busters', 'coming', 'out']
-Parts of speech	1	['Parts', 'of', 'speech']
-funny dog pictures	1	['funny', 'dog', 'pictures']
-Who played sander in The Walking Dead	1	['Who', 'played', 'sander', 'in', 'The', 'Walking', 'Dead']
-How long can a Draffs neck	1	['How', 'long', 'can', 'a', 'Draffs', 'neck']
-I'm going home	1	"['I', ""'m"", 'going', 'home']"
-The walking dead	1	['The', 'walking', 'dead']
-when is the next season of stanly supperre humans	1	['when', 'is', 'the', 'next', 'season', 'of', 'stanly', 'supperre', 'humans']
-youtube	4	['youtube']
-String explosin	1	['String', 'explosin']
-How did Anabell flote	1	['How', 'did', 'Anabell', 'flote']
-Why are poler Bear white	1	['Why', 'are', 'poler', 'Bear', 'white']
-When I'm your go to miss me	1	"['When', 'I', ""'m"", 'your', 'go', 'to', 'miss', 'me']"
-Anabell	1	['Anabell']
-When is season 5 Vingis comeing out	1	['When', 'is', 'season', '5', 'Vingis', 'comeing', 'out']
-YouTub	1	['YouTub']
-I like Insidous 1 2 and 3	1	['I', 'like', 'Insidous', '1', '2', 'and', '3']
-What was Lucy (from chronicels of Narnia) age	1	['What', 'was', 'Lucy', '(', 'from', 'chronicels', 'of', 'Narnia', ')', 'age']
-Why do dogs wag their tail	1	['Why', 'do', 'dogs', 'wag', 'their', 'tail']
-Whats the song I cut my hangs with some rusty kitchen sissors	1	['Whats', 'the', 'song', 'I', 'cut', 'my', 'hangs', 'with', 'some', 'rusty', 'kitchen', 'sissors']
-What the name of the movie based on a C.S Lewis book?	1	['What', 'the', 'name', 'of', 'the', 'movie', 'based', 'on', 'a', 'C.S', 'Lewis', 'book', '?']
-Is there a place in Africa named Kimberly	1	['Is', 'there', 'a', 'place', 'in', 'Africa', 'named', 'Kimberly']
-envirormental propums in missouri	1	['envirormental', 'propums', 'in', 'missouri']
-When does the new m donlads goin to be buiolt	1	['When', 'does', 'the', 'new', 'm', 'donlads', 'goin', 'to', 'be', 'buiolt']
-Star Wars who plays Kylo ren	1	['Star', 'Wars', 'who', 'plays', 'Kylo', 'ren']
-Drake	1	['Drake']
-When is star wars going to come out	1	['When', 'is', 'star', 'wars', 'going', 'to', 'come', 'out']
-How old can chewbacca get	1	['How', 'old', 'can', 'chewbacca', 'get']
-How does a wolf catch its prey	1	['How', 'does', 'a', 'wolf', 'catch', 'its', 'prey']
-what is love	1	['what', 'is', 'love']
-Star Wars	1	['Star', 'Wars']
-When will be a full moon this year	1	['When', 'will', 'be', 'a', 'full', 'moon', 'this', 'year']
-Caculator	1	['Caculator']
-Assassin's Creed	1	"['Assassin', ""'s"", 'Creed']"
-Who plays the good terminater in Terminater two	1	['Who', 'plays', 'the', 'good', 'terminater', 'in', 'Terminater', 'two']
-Information about tigers	1	['Information', 'about', 'tigers']
-When is the new Finding Dory coming out	1	['When', 'is', 'the', 'new', 'Finding', 'Dory', 'coming', 'out']
-how old is Han Solo in the new star wars movie	1	['how', 'old', 'is', 'Han', 'Solo', 'in', 'the', 'new', 'star', 'wars', 'movie']
-how many Star wars movies have Han solo in them?	1	['how', 'many', 'Star', 'wars', 'movies', 'have', 'Han', 'solo', 'in', 'them', '?']
-How many cheetahs are in the world?	1	['How', 'many', 'cheetahs', 'are', 'in', 'the', 'world', '?']
-"What son has ""clapalong if you feel"" in it?"	1	"['What', 'son', 'has', '``', 'clapalong', 'if', 'you', 'feel', ""''"", 'in', 'it', '?']"
-Order kungfu panda	1	['Order', 'kungfu', 'panda']
-How many Star Wars movies will be made?	1	['How', 'many', 'Star', 'Wars', 'movies', 'will', 'be', 'made', '?']
-How do they make the chewey voice starwars	1	['How', 'do', 'they', 'make', 'the', 'chewey', 'voice', 'starwars']
-monkey info	1	['monkey', 'info']
-mincraft songs	1	['mincraft', 'songs']
-star wars ep. 5	1	['star', 'wars', 'ep', '.', '5']
-How old is the wookie	1	['How', 'old', 'is', 'the', 'wookie']
-mamoth facts	1	['mamoth', 'facts']
-How old is TinkleBell	1	['How', 'old', 'is', 'TinkleBell']
-What is the movie called with a Doll named Anebelle?	1	['What', 'is', 'the', 'movie', 'called', 'with', 'a', 'Doll', 'named', 'Anebelle', '?']
-When is finding Dory coming out?	1	['When', 'is', 'finding', 'Dory', 'coming', 'out', '?']
-How much are the Justin beiber tickets	1	['How', 'much', 'are', 'the', 'Justin', 'beiber', 'tickets']
-Online calculator for math	1	['Online', 'calculator', 'for', 'math']
-What is the color of a leopard	1	['What', 'is', 'the', 'color', 'of', 'a', 'leopard']
-Who's lukes mom?	1	"['Who', ""'s"", 'lukes', 'mom', '?']"
-how old can dogs grow to be	1	['how', 'old', 'can', 'dogs', 'grow', 'to', 'be']
-starwars episode the force returns	1	['starwars', 'episode', 'the', 'force', 'returns']
-when does far cry primal come out for xbox360	1	['when', 'does', 'far', 'cry', 'primal', 'come', 'out', 'for', 'xbox360']
-How old DJ is in Fuller House	1	['How', 'old', 'DJ', 'is', 'in', 'Fuller', 'House']
-Why are Polar bears white	1	['Why', 'are', 'Polar', 'bears', 'white']
-Anibelle	1	['Anibelle']
-When will they make more episodes of Fuller House	1	['When', 'will', 'they', 'make', 'more', 'episodes', 'of', 'Fuller', 'House']
-youtube	4	['youtube']
-Who plays Kylo Ren from StarWars?	1	['Who', 'plays', 'Kylo', 'Ren', 'from', 'StarWars', '?']
-What are coll fact about a horse?	1	['What', 'are', 'coll', 'fact', 'about', 'a', 'horse', '?']
-"What songs has a name with the lyrics of ""You use to call my on my self phone"""	1	"['What', 'songs', 'has', 'a', 'name', 'with', 'the', 'lyrics', 'of', '``', 'You', 'use', 'to', 'call', 'my', 'on', 'my', 'self', 'phone', ""''""]"
-Star Wars Ep. 7	1	['Star', 'Wars', 'Ep', '.', '7']
-How do Feathre's grow	1	"['How', 'do', 'Feathre', ""'s"", 'grow']"
-How do lights work	1	['How', 'do', 'lights', 'work']
-Images of dragons	1	['Images', 'of', 'dragons']
- how did paul Walker die	1	['how', 'did', 'paul', 'Walker', 'die']
-Sloth	1	['Sloth']
-Fast and Furiouse	1	['Fast', 'and', 'Furiouse']
-How old Star Wars is	1	['How', 'old', 'Star', 'Wars', 'is']
-Star wars	2	['Star', 'wars']
-How old is Johny enlgish?	1	['How', 'old', 'is', 'Johny', 'enlgish', '?']
-facts on Sabertooth tigers	1	['facts', 'on', 'Sabertooth', 'tigers']
-Johny english reborn movie	1	['Johny', 'english', 'reborn', 'movie']
-new movies 2016	1	['new', 'movies', '2016']
-games	3	['games']
-how fast is flash	1	['how', 'fast', 'is', 'flash']
-why are grizzly Bares Brown	1	['why', 'are', 'grizzly', 'Bares', 'Brown']
-songs for 5th graders	1	['songs', 'for', '5th', 'graders']
-Netflix	1	['Netflix']
-What do foxes eat	1	['What', 'do', 'foxes', 'eat']
-picts of dragons	1	['picts', 'of', 'dragons']
-The Incredibles	1	['The', 'Incredibles']
-who voiced Mr.Incredible	1	['who', 'voiced', 'Mr.Incredible']
-how long are giraffes necks	1	['how', 'long', 'are', 'giraffes', 'necks']
-the Incredibles	1	['the', 'Incredibles']
-facts about Ufos	1	['facts', 'about', 'Ufos']
-five night at freddys	1	['five', 'night', 'at', 'freddys']
-who played Gorden	1	['who', 'played', 'Gorden']
-facts about lizards	1	['facts', 'about', 'lizards']
-Who plays Kylo Ren in the new Star wars	1	['Who', 'plays', 'Kylo', 'Ren', 'in', 'the', 'new', 'Star', 'wars']
-Facts about geckos	1	['Facts', 'about', 'geckos']
-Star Wars the Force Awakens	1	['Star', 'Wars', 'the', 'Force', 'Awakens']
-When is the new Guardians of the Galaxy going to come out	1	['When', 'is', 'the', 'new', 'Guardians', 'of', 'the', 'Galaxy', 'going', 'to', 'come', 'out']
-Computer games	1	['Computer', 'games']
-Sumdog Math games	1	['Sumdog', 'Math', 'games']
-Who plays the villain in Ant-man	1	['Who', 'plays', 'the', 'villain', 'in', 'Ant-man']
-How long is a lions Lifespan?	1	['How', 'long', 'is', 'a', 'lions', 'Lifespan', '?']
-Ant-man movie	1	['Ant-man', 'movie']
-When is Batman v. Superman coming out?	1	['When', 'is', 'Batman', 'v.', 'Superman', 'coming', 'out', '?']
-Youtube	1	['Youtube']
-math games	1	['math', 'games']
-How long can a polr bear swin under water?	1	['How', 'long', 'can', 'a', 'polr', 'bear', 'swin', 'under', 'water', '?']
-When will the movie Zootopia come out	1	['When', 'will', 'the', 'movie', 'Zootopia', 'come', 'out']
-Pointless website	1	['Pointless', 'website']
-world war II pictures	1	['world', 'war', 'II', 'pictures']
-Who plays the rabbit from the movie H.O.P.?	1	['Who', 'plays', 'the', 'rabbit', 'from', 'the', 'movie', 'H.O.P', '.', '?']
-name of my Favourite movie	1	['name', 'of', 'my', 'Favourite', 'movie']
-When is the new movie Race about Jessie Owens coming out on DVD	1	['When', 'is', 'the', 'new', 'movie', 'Race', 'about', 'Jessie', 'Owens', 'coming', 'out', 'on', 'DVD']
-staggering bautey (a game)	1	['staggering', 'bautey', '(', 'a', 'game', ')']
-Who plays in the new goose bumps?	1	['Who', 'plays', 'in', 'the', 'new', 'goose', 'bumps', '?']
-How fast can a Cheeta run?	1	['How', 'fast', 'can', 'a', 'Cheeta', 'run', '?']
-What is the new son by son and son?	1	['What', 'is', 'the', 'new', 'son', 'by', 'son', 'and', 'son', '?']
-Fuller House Full episodes	1	['Fuller', 'House', 'Full', 'episodes']
-When is Fuller House coming out?	1	['When', 'is', 'Fuller', 'House', 'coming', 'out', '?']
-How to multiply a fraction by a fraction?	1	['How', 'to', 'multiply', 'a', 'fraction', 'by', 'a', 'fraction', '?']
-Krois? How dose dame not die in the last part	1	['Krois', '?', 'How', 'dose', 'dame', 'not', 'die', 'in', 'the', 'last', 'part']
- How dose the snake five the venom	1	['How', 'dose', 'the', 'snake', 'five', 'the', 'venom']
-The lirycs of the song	1	['The', 'lirycs', 'of', 'the', 'song']
-the tittle of the movie	1	['the', 'tittle', 'of', 'the', 'movie']
-about April something	1	['about', 'April', 'something']
-school games	1	['school', 'games']
-cool cars	1	['cool', 'cars']
-who plays as the man of steel	1	['who', 'plays', 'as', 'the', 'man', 'of', 'steel']
-when will the new movie is coming out	1	['when', 'will', 'the', 'new', 'movie', 'is', 'coming', 'out']
-my favourite movie	1	['my', 'favourite', 'movie']
-who sang a song called watch me whip nae	1	['who', 'sang', 'a', 'song', 'called', 'watch', 'me', 'whip', 'nae']
-Batman vs superman 	1	['Batman', 'vs', 'superman']
-the minions movie	1	['the', 'minions', 'movie']
-information of words	1	['information', 'of', 'words']
-sports and news	1	['sports', 'and', 'news']
-Who is the voice for Dory in Finding Nemo?	1	['Who', 'is', 'the', 'voice', 'for', 'Dory', 'in', 'Finding', 'Nemo', '?']
-How long can a shark live for	1	['How', 'long', 'can', 'a', 'shark', 'live', 'for']
-Mama ohohoh song	1	['Mama', 'ohohoh', 'song']
-Starwars	1	['Starwars']
-When is the next StarWars movie coming out	1	['When', 'is', 'the', 'next', 'StarWars', 'movie', 'coming', 'out']
-MIG games	1	['MIG', 'games']
-google docs	1	['google', 'docs']
-How old are the kids now in Stand By Me?	1	['How', 'old', 'are', 'the', 'kids', 'now', 'in', 'Stand', 'By', 'Me', '?']
-What sound does a girrafe make?	1	['What', 'sound', 'does', 'a', 'girrafe', 'make', '?']
-Hello it's me	1	"['Hello', 'it', ""'s"", 'me']"
-movie Zootopia	1	['movie', 'Zootopia']
-How old is google?	1	['How', 'old', 'is', 'google', '?']
-facts information	1	['facts', 'information']
-youtube	4	['youtube']
-How old is Ray from StarWars?	1	['How', 'old', 'is', 'Ray', 'from', 'StarWars', '?']
-How many breeds of Dogs are there?	1	['How', 'many', 'breeds', 'of', 'Dogs', 'are', 'there', '?']
-Songs by Adele	1	['Songs', 'by', 'Adele']
-Spirited away	1	['Spirited', 'away']
-When is Zootopia coming out?	1	['When', 'is', 'Zootopia', 'coming', 'out', '?']
-ideas for poems	1	['ideas', 'for', 'poems']
-games to play when you board	1	['games', 'to', 'play', 'when', 'you', 'board']
-Billbow - Bagan in the Hobbit	1	['Billbow', '-', 'Bagan', 'in', 'the', 'Hobbit']
-A whole with a horn	1	['A', 'whole', 'with', 'a', 'horn']
-What songs does Jeff play?	1	['What', 'songs', 'does', 'Jeff', 'play', '?']
-"What is the movie ""The Secret life of pets"""	1	"['What', 'is', 'the', 'movie', '``', 'The', 'Secret', 'life', 'of', 'pets', ""''""]"
-Who plays Nemo in finding Nemo?	1	['Who', 'plays', 'Nemo', 'in', 'finding', 'Nemo', '?']
-How plays the Rafe on teenager mutan	1	['How', 'plays', 'the', 'Rafe', 'on', 'teenager', 'mutan']
-Star wars	2	['Star', 'wars']
-calculator	1	['calculator']
-Who voices Mabel in Gravity Falls?	1	['Who', 'voices', 'Mabel', 'in', 'Gravity', 'Falls', '?']
-The Alpaca	1	['The', 'Alpaca']
-Math games	1	['Math', 'games']
-Dan and Phil	1	['Dan', 'and', 'Phil']
-Who plays Kylo Ren in the new Star wars movie?	1	['Who', 'plays', 'Kylo', 'Ren', 'in', 'the', 'new', 'Star', 'wars', 'movie', '?']
-How long can a wolf live?	1	['How', 'long', 'can', 'a', 'wolf', 'live', '?']
-What is the ame of the song with the lyrics ? Now watch me whip watch me nay nay!	1	['What', 'is', 'the', 'ame', 'of', 'the', 'song', 'with', 'the', 'lyrics', '?', 'Now', 'watch', 'me', 'whip', 'watch', 'me', 'nay', 'nay', '!']
-start wars	1	['start', 'wars']
-When does summer break start?	1	['When', 'does', 'summer', 'break', 'start', '?']
-What was the best video game at 2015?	1	['What', 'was', 'the', 'best', 'video', 'game', 'at', '2015', '?']
-What is the capitol of New York?	1	['What', 'is', 'the', 'capitol', 'of', 'New', 'York', '?']
-Who plays the bad guy in Star Wars the Horde awakends?	1	['Who', 'plays', 'the', 'bad', 'guy', 'in', 'Star', 'Wars', 'the', 'Horde', 'awakends', '?']
-What is a fox's favorite kind of food?	1	"['What', 'is', 'a', 'fox', ""'s"", 'favorite', 'kind', 'of', 'food', '?']"
-"Show me the movie called ""The Martian"""	1	"['Show', 'me', 'the', 'movie', 'called', '``', 'The', 'Martian', ""''""]"
-What is the biggest rock found on Mars?	1	['What', 'is', 'the', 'biggest', 'rock', 'found', 'on', 'Mars', '?']
-What is the top game this week?	1	['What', 'is', 'the', 'top', 'game', 'this', 'week', '?']
-NBA Allstar	1	['NBA', 'Allstar']
-NOKIA N71	1	['NOKIA', 'N71']
-NSAMeeting.com	1	['NSAMeeting.com']
-NY Giants	1	['NY', 'Giants']
-NY LOTTERY	1	['NY', 'LOTTERY']
-Nanny Express	1	['Nanny', 'Express']
-Navigation to the webpage was canceled What you can try:	1	['Navigation', 'to', 'the', 'webpage', 'was', 'canceled', 'What', 'you', 'can', 'try', ':']
-New England Coffee	1	['New', 'England', 'Coffee']
-New I-9 Form	1	['New', 'I-9', 'Form']
-Nijmegen	1	['Nijmegen']
-Nyheter dygnet runt	1	['Nyheter', 'dygnet', 'runt']
-OBAMA INAUGURATION BALL	1	['OBAMA', 'INAUGURATION', 'BALL']
-PL	1	['PL']
-ONLINE CALENDAR	1	['ONLINE', 'CALENDAR']
-Obama bailout plan	1	['Obama', 'bailout', 'plan']
-Ocean Pointe Suites at Key Largo	1	['Ocean', 'Pointe', 'Suites', 'at', 'Key', 'Largo']
-Oceanic Time Warner	1	['Oceanic', 'Time', 'Warner']
-Oklahoma Unclaimed Property	1	['Oklahoma', 'Unclaimed', 'Property']
-One More Level.com	1	['One', 'More', 'Level.com']
-PHIMHONGKONG	1	['PHIMHONGKONG']
-PINK PANTHER 2	1	['PINK', 'PANTHER', '2']
-PINOYGUNS	1	['PINOYGUNS']
-POKERSTAR	1	['POKERSTAR']
-POLYSTYRENE	1	['POLYSTYRENE']
-PORTRAIT INOVATIONS	1	['PORTRAIT', 'INOVATIONS']
-PPMD	1	['PPMD']
-PRINCIPAL BUSINESS CODES	1	['PRINCIPAL', 'BUSINESS', 'CODES']
-PUP.EDU.PH	1	['PUP.EDU.PH']
-Paige	1	['Paige']
-Palace	1	['Palace']
-Panic! at the disco	1	['Panic', '!', 'at', 'the', 'disco']
-Peak District National Park	1	['Peak', 'District', 'National', 'Park']
-Pearl Jam lyrics	1	['Pearl', 'Jam', 'lyrics']
-Penney Life Insurance	1	['Penney', 'Life', 'Insurance']
-Pentecostal Bible Studies	1	['Pentecostal', 'Bible', 'Studies']
-Pitbull	1	['Pitbull']
-Post Office Nearest	1	['Post', 'Office', 'Nearest']
-Price of Gold	1	['Price', 'of', 'Gold']
-Prilosec OTC	1	['Prilosec', 'OTC']
-ProForm Quick Burn SpaceSaver Elliptical	1	['ProForm', 'Quick', 'Burn', 'SpaceSaver', 'Elliptical']
-Project Risk Management	1	['Project', 'Risk', 'Management']
-Suncellular	1	['Suncellular']
-Sylvia Marie Likens	1	['Sylvia', 'Marie', 'Likens']
-T-max	1	['T-max']
-TUBE9	1	['TUBE9']
-Tactics Arena Online	1	['Tactics', 'Arena', 'Online']
-Tahiti	1	['Tahiti']
-Tanay Rodney Jackson	1	['Tanay', 'Rodney', 'Jackson']
-Tanning Lotions	1	['Tanning', 'Lotions']
-airline passenger forced	1	['airline', 'passenger', 'forced']
-Testosteron	1	['Testosteron']
-The Americans with Disabilities Act	1	['The', 'Americans', 'with', 'Disabilities', 'Act']
-The Book of Revelation	1	['The', 'Book', 'of', 'Revelation']
-The Liver	1	['The', 'Liver']
-The Perfect Dog	1	['The', 'Perfect', 'Dog']
-The Turtles	1	['The', 'Turtles']
-This program cannot display the webpage	1	['This', 'program', 'can', 'not', 'display', 'the', 'webpage']
-Times Publishing	1	['Times', 'Publishing']
-Titan insurance	1	['Titan', 'insurance']
-Tougaloo College	1	['Tougaloo', 'College']
-Trick Flow Specialties	1	['Trick', 'Flow', 'Specialties']
-Troy Sports Center	1	['Troy', 'Sports', 'Center']
-U of A	1	['U', 'of', 'A']
-ULTRA FOOD	1	['ULTRA', 'FOOD']
-USC housing	1	['USC', 'housing']
-USFSA	1	['USFSA']
-UTG MK96	1	['UTG', 'MK96']
-University of California San Francisco	1	['University', 'of', 'California', 'San', 'Francisco']
-University of Texas at Austin	1	['University', 'of', 'Texas', 'at', 'Austin']
-University of York	1	['University', 'of', 'York']
-VALOIS	1	['VALOIS']
-VANTAGE	1	['VANTAGE']
-alcohol and fibromyalgia	1	['alcohol', 'and', 'fibromyalgia']
-alligenceairway	1	['alligenceairway']
-alltherage	1	['alltherage']
-aloha sol	1	['aloha', 'sol']
-alpha bank	1	['alpha', 'bank']
-alpha source	1	['alpha', 'source']
-alrojovivo noticias	1	['alrojovivo', 'noticias']
-altered beast forum	1	['altered', 'beast', 'forum']
-amansblogsite	1	['amansblogsite']
-amarillo sour drink recipe	1	['amarillo', 'sour', 'drink', 'recipe']
-amateur athletic union	1	['amateur', 'athletic', 'union']
-amateur crossdressers	1	['amateur', 'crossdressers']
-amateur gang bang	1	['amateur', 'gang', 'bang']
-amaz0n	1	['amaz0n']
-ambassador east	1	['ambassador', 'east']
-ambulance sound effects	1	['ambulance', 'sound', 'effects']
-amc tyler 16	1	['amc', 'tyler', '16']
-amc.com/	1	['amc.com/']
-amendment 23	1	['amendment', '23']
-amercare	1	['amercare']
-american board of general dentistry	1	['american', 'board', 'of', 'general', 'dentistry']
-american egael outfitters	1	['american', 'egael', 'outfitters']
-american embassy nairobi	1	['american', 'embassy', 'nairobi']
-american girl doll hair care	1	['american', 'girl', 'doll', 'hair', 'care']
-american history figures	1	['american', 'history', 'figures']
-best buy account	1	['best', 'buy', 'account']
-best colleges 2009	1	['best', 'colleges', '2009']
-best crossword puzzle	1	['best', 'crossword', 'puzzle']
-best energy stocks	1	['best', 'energy', 'stocks']
-best gps deals	1	['best', 'gps', 'deals']
-best love novels	1	['best', 'love', 'novels']
-best professional digital camera	1	['best', 'professional', 'digital', 'camera']
-best rc truck	1	['best', 'rc', 'truck']
-best songs of the 80s and 90s	1	['best', 'songs', 'of', 'the', '80s', 'and', '90s']
-best video player	1	['best', 'video', 'player']
-best walking shoes for babies	1	['best', 'walking', 'shoes', 'for', 'babies']
-best western danville va	1	['best', 'western', 'danville', 'va']
-bestbuty	1	['bestbuty']
-bestusedtrucks.com	1	['bestusedtrucks.com']
-bethany mennonite church	1	['bethany', 'mennonite', 'church']
-bethesda north hospital	1	['bethesda', 'north', 'hospital']
-betley	1	['betley']
-betsey johnson coats	1	['betsey', 'johnson', 'coats']
-betty bowers	1	['betty', 'bowers']
-bg pop folk	1	['bg', 'pop', 'folk']
-bgz pl	1	['bgz', 'pl']
-bhgtv	1	['bhgtv']
-bianca's handcuff page	1	"['bianca', ""'s"", 'handcuff', 'page']"
-bibbero	1	['bibbero']
-bible doctrines	1	['bible', 'doctrines']
-bible glossary	1	['bible', 'glossary']
-bible in a year	1	['bible', 'in', 'a', 'year']
-bible verses for strength	1	['bible', 'verses', 'for', 'strength']
-bibliotecas online	1	['bibliotecas', 'online']
-bietet unter anderem	1	['bietet', 'unter', 'anderem']
-chasecreditcardservices	1	['chasecreditcardservices']
-chateau lemoyne new orleans	1	['chateau', 'lemoyne', 'new', 'orleans']
-chattahoochee river park	1	['chattahoochee', 'river', 'park']
-cheap auto insurance online	1	['cheap', 'auto', 'insurance', 'online']
-cheap big johnson t-shirts	1	['cheap', 'big', 'johnson', 't-shirts']
-cheap dog crates	1	['cheap', 'dog', 'crates']
-cheap fitness clothes	1	['cheap', 'fitness', 'clothes']
-cheapmovies	1	['cheapmovies']
-cheat codes for gta vice city	1	['cheat', 'codes', 'for', 'gta', 'vice', 'city']
-cheat codes for sims 2 ps2	1	['cheat', 'codes', 'for', 'sims', '2', 'ps2']
-cheats for naruto ultimate ninja heroes	1	['cheats', 'for', 'naruto', 'ultimate', 'ninja', 'heroes']
-checkreoderexpress	1	['checkreoderexpress']
-csc events	1	['csc', 'events']
-ct state website	1	['ct', 'state', 'website']
-cuban flan recipe	1	['cuban', 'flan', 'recipe']
-cubs sweatshirts	1	['cubs', 'sweatshirts']
-cupoons	1	['cupoons']
-curises.com	1	['curises.com']
-currency exchange	1	['currency', 'exchange']
-current white house staff	1	['current', 'white', 'house', 'staff']
-curry college milton	1	['curry', 'college', 'milton']
-curvy bodies	1	['curvy', 'bodies']
-custom lowrider bikes	1	['custom', 'lowrider', 'bikes']
-custom photo birth announcements	1	['custom', 'photo', 'birth', 'announcements']
-custom slipcovers	1	['custom', 'slipcovers']
-cutterbee	1	['cutterbee']
-cvs coupon	1	['cvs', 'coupon']
-cyberlink power dvd update	1	['cyberlink', 'power', 'dvd', 'update']
-cynthia lummis	1	['cynthia', 'lummis']
-fanatico restaurant	1	['fanatico', 'restaurant']
-fansnap	1	['fansnap']
-fantasy springs casino indio	1	['fantasy', 'springs', 'casino', 'indio']
-fast food design	1	['fast', 'food', 'design']
-fast now	1	['fast', 'now']
-fat loss pills	1	['fat', 'loss', 'pills']
-fatal motorcycle accidents pictures	1	['fatal', 'motorcycle', 'accidents', 'pictures']
-fco airport	1	['fco', 'airport']
-federal bullets ammunition	1	['federal', 'bullets', 'ammunition']
-federal correction institute	1	['federal', 'correction', 'institute']
-federal employee holidays	1	['federal', 'employee', 'holidays']
-federal reserve history	1	['federal', 'reserve', 'history']
-fedricks of hollwood	1	['fedricks', 'of', 'hollwood']
-feline health questions	1	['feline', 'health', 'questions']
-fema.com	1	['fema.com']
-female celebrities with short hair	1	['female', 'celebrities', 'with', 'short', 'hair']
-female porn	1	['female', 'porn']
-gemelli	1	['gemelli']
-gender history	1	['gender', 'history']
-geneva construction	1	['geneva', 'construction']
-george lopez daughter	1	['george', 'lopez', 'daughter']
-georgia standards commission	1	['georgia', 'standards', 'commission']
-georgia tag office license plate	1	['georgia', 'tag', 'office', 'license', 'plate']
-germany road conditions	1	['germany', 'road', 'conditions']
-get off	1	['get', 'off']
-gezond eten recepten	1	['gezond', 'eten', 'recepten']
-ghi hmo	1	['ghi', 'hmo']
-ghost recon advanced warfighter walkthrough	1	['ghost', 'recon', 'advanced', 'warfighter', 'walkthrough']
-ghs jobs	1	['ghs', 'jobs']
-giants fan	1	['giants', 'fan']
-giausd	1	['giausd']
-gift ideas for her	1	['gift', 'ideas', 'for', 'her']
-gilroy hotels	1	['gilroy', 'hotels']
-giovanni prom dresses	1	['giovanni', 'prom', 'dresses']
-girl bunkbeds	1	['girl', 'bunkbeds']
-hershy pa	1	['hershy', 'pa']
-hidden agenda	1	['hidden', 'agenda']
-hidrofor	1	['hidrofor']
-hidrometeoroloski zavod srbije	1	['hidrometeoroloski', 'zavod', 'srbije']
-high school speeches	1	['high', 'school', 'speeches']
-highlightkids	1	['highlightkids']
-highlights for brunettes	1	['highlights', 'for', 'brunettes']
-hillary duff	1	['hillary', 'duff']
-hillsong from the inside out chords	1	['hillsong', 'from', 'the', 'inside', 'out', 'chords']
-hilton promotional code	1	['hilton', 'promotional', 'code']
-innovative educational media company that connects	1	['innovative', 'educational', 'media', 'company', 'that', 'connects']
-insectors	1	['insectors']
-inside.amcity.com	1	['inside.amcity.com']
-install new program	1	['install', 'new', 'program']
-instant tax services	1	['instant', 'tax', 'services']
-intellicast com	1	['intellicast', 'com']
-intentional communication without	1	['intentional', 'communication', 'without']
-interactive buddy 2 game skins	1	['interactive', 'buddy', '2', 'game', 'skins']
-interior journal	1	['interior', 'journal']
-lalatx	1	['lalatx']
-land for sale in indiana	1	['land', 'for', 'sale', 'in', 'indiana']
-land line phone companies	1	['land', 'line', 'phone', 'companies']
-land rover engines	1	['land', 'rover', 'engines']
-langham place	1	['langham', 'place']
-largest spider	1	['largest', 'spider']
-larry drew basketball	1	['larry', 'drew', 'basketball']
-larryfitzgerald	1	['larryfitzgerald']
-leshawn merritt	1	['leshawn', 'merritt']
-leupold scope bases and rings	1	['leupold', 'scope', 'bases', 'and', 'rings']
-lewis county tennessee	1	['lewis', 'county', 'tennessee']
-lewis palmer	1	['lewis', 'palmer']
-lexapro vs effexor	1	['lexapro', 'vs', 'effexor']
-lexibook	1	['lexibook']
-lexmark fax solutions software	1	['lexmark', 'fax', 'solutions', 'software']
-lexus of maplewood	1	['lexus', 'of', 'maplewood']
-ley federal del trabajo	1	['ley', 'federal', 'del', 'trabajo']
-lg 47lg50 review	1	['lg', '47lg50', 'review']
-lhcu.org	1	['lhcu.org']
-liberal vs conservative	1	['liberal', 'vs', 'conservative']
-lyrics chasing pavements adele	1	['lyrics', 'chasing', 'pavements', 'adele']
-lyrics for bad girl	1	['lyrics', 'for', 'bad', 'girl']
-lyrics man in the mirror	1	['lyrics', 'man', 'in', 'the', 'mirror']
-lyrics of learning to fall	1	['lyrics', 'of', 'learning', 'to', 'fall']
-lyrics thank you for being a friend	1	['lyrics', 'thank', 'you', 'for', 'being', 'a', 'friend']
-lyrics to electric feel by mgmt	1	['lyrics', 'to', 'electric', 'feel', 'by', 'mgmt']
-machine finders	1	['machine', 'finders']
-mactan real estate	1	['mactan', 'real', 'estate']
-madagascar 3	1	['madagascar', '3']
-madisonville state bank texas	1	['madisonville', 'state', 'bank', 'texas']
-maggiore car rental	1	['maggiore', 'car', 'rental']
-magnolia clinic in houston	1	['magnolia', 'clinic', 'in', 'houston']
-maynard cooper & gale p c	1	['maynard', 'cooper', '&', 'gale', 'p', 'c']
-mayo clinic cabbage soup diet recipe	1	['mayo', 'clinic', 'cabbage', 'soup', 'diet', 'recipe']
-mbam	1	['mbam']
-mbt fitness shoes	1	['mbt', 'fitness', 'shoes']
-mcafee threat center	1	['mcafee', 'threat', 'center']
-mcafeesecurity center	1	['mcafeesecurity', 'center']
-mcdonalds diet	1	['mcdonalds', 'diet']
-mcgregor medical san antonio	1	['mcgregor', 'medical', 'san', 'antonio']
-mcs puerto rico san juan	1	['mcs', 'puerto', 'rico', 'san', 'juan']
-negative predictive value	1	['negative', 'predictive', 'value']
-neil o'donnell stats	1	"['neil', ""o'donnell"", 'stats']"
-neil simon theatre	1	['neil', 'simon', 'theatre']
-nemacolin resort	1	['nemacolin', 'resort']
-neopetsx	1	['neopetsx']
-neoseeker action replay codes	1	['neoseeker', 'action', 'replay', 'codes']
-oscar best picture list	1	['oscar', 'best', 'picture', 'list']
-outdoor shoes	1	['outdoor', 'shoes']
-outdooralabama.com	1	['outdooralabama.com']
-outlaws motorcycle clubs	1	['outlaws', 'motorcycle', 'clubs']
-outrage	1	['outrage']
-outrigger maui el dorado	1	['outrigger', 'maui', 'el', 'dorado']
-ov video	1	['ov', 'video']
-overeaters ananymous	1	['overeaters', 'ananymous']
-pregancy questions	1	['pregancy', 'questions']
-pregnancy preparation	1	['pregnancy', 'preparation']
-pregnant black girls	1	['pregnant', 'black', 'girls']
-pregnant websites	1	['pregnant', 'websites']
-preissuchmaschine	1	['preissuchmaschine']
-premier card	1	['premier', 'card']
-ratatoue	1	['ratatoue']
-rate my teachers.com	1	['rate', 'my', 'teachers.com']
-rate your space	1	['rate', 'your', 'space']
-ratemybeaver.com	1	['ratemybeaver.com']
-rave motion pictures ridgmar 13 fort worth tx	1	['rave', 'motion', 'pictures', 'ridgmar', '13', 'fort', 'worth', 'tx']
-raven symone myspace	1	['raven', 'symone', 'myspace']
-raynauldsdisease	1	['raynauldsdisease']
-razboi intru cuvant	1	['razboi', 'intru', 'cuvant']
-rca 2000	1	['rca', '2000']
-rchobbies.com	1	['rchobbies.com']
-reading endorsement	1	['reading', 'endorsement']
-real estate NJ	1	['real', 'estate', 'NJ']
-sarasota herald tribune	1	['sarasota', 'herald', 'tribune']
-saratoga springs figure skating club home page	1	['saratoga', 'springs', 'figure', 'skating', 'club', 'home', 'page']
-sargento.com	1	['sargento.com']
-satureday night live	1	['satureday', 'night', 'live']
-savannh ga	1	['savannh', 'ga']
-sayers	1	['sayers']
-sc arts commission	1	['sc', 'arts', 'commission']
-soups for weight loss	1	['soups', 'for', 'weight', 'loss']
-south carolina state department of education	1	['south', 'carolina', 'state', 'department', 'of', 'education']
-south county mental health	1	['south', 'county', 'mental', 'health']
-south indian railway map	1	['south', 'indian', 'railway', 'map']
-southeastern credit union	1	['southeastern', 'credit', 'union']
-southern hills medical center	1	['southern', 'hills', 'medical', 'center']
-super street motorcycles	1	['super', 'street', 'motorcycles']
-superbowl sunday?	1	['superbowl', 'sunday', '?']
-superhry cz	1	['superhry', 'cz']
-superior motors	1	['superior', 'motors']
-supporta Java oppure	1	['supporta', 'Java', 'oppure']
-supreme ventures jamaica lottery results	1	['supreme', 'ventures', 'jamaica', 'lottery', 'results']
+Query	QueryFrequency	QueryTokens	user
+How did paul die from fast in the fouris	1	['How', 'did', 'paul', 'die', 'from', 'fast', 'in', 'the', 'fouris']	1
+Fire belly toad	1	['Fire', 'belly', 'toad']	1
+Now im stressed out	1	['Now', 'im', 'stressed', 'out']	1
+fast in the fouris	1	['fast', 'in', 'the', 'fouris']	2
+How many phones sell in a day	1	['How', 'many', 'phones', 'sell', 'in', 'a', 'day']	2
+How long do toads live	1	['How', 'long', 'do', 'toads', 'live']	2
+amozan	1	['amozan']	3
+Fast and the ferious	1	['Fast', 'and', 'the', 'ferious']	3
+Dominic's early life in fast an ferious	1	"['Dominic', ""'s"", 'early', 'life', 'in', 'fast', 'an', 'ferious']"	3
+what is a cheeta	1	['what', 'is', 'a', 'cheeta']	4
+The song at the end of the fast and ferious 7 movie	1	['The', 'song', 'at', 'the', 'end', 'of', 'the', 'fast', 'and', 'ferious', '7', 'movie']	4
+The Fast and ferious 7 movie	1	['The', 'Fast', 'and', 'ferious', '7', 'movie']	4
+When is the Fast and ferious 9 coming in theaters	1	['When', 'is', 'the', 'Fast', 'and', 'ferious', '9', 'coming', 'in', 'theaters']	5
+hew was the 2nd president	1	['hew', 'was', 'the', '2nd', 'president']	5
+movies for to day at the edwads movie theater	1	['movies', 'for', 'to', 'day', 'at', 'the', 'edwads', 'movie', 'theater']	5
+Who is the voice of rupnnzel	1	['Who', 'is', 'the', 'voice', 'of', 'rupnnzel']	6
+tortoises	1	['tortoises']	6
+Hey I just met you	1	['Hey', 'I', 'just', 'met', 'you']	6
+Jurassic world	1	['Jurassic', 'world']	7
+How many langenges was Jurassic world made in	1	['How', 'many', 'langenges', 'was', 'Jurassic', 'world', 'made', 'in']	7
+TTM	1	['TTM']	7
+Google classroom	1	['Google', 'classroom']	8
+23rd president	1	['23rd', 'president']	8
+cute girls hairstyles	1	['cute', 'girls', 'hairstyles']	8
+pintrest	1	['pintrest']	9
+Fantastic hair doos	1	['Fantastic', 'hair', 'doos']	9
+Character from monster high	1	['Character', 'from', 'monster', 'high']	9
+example of a leamer	1	['example', 'of', 'a', 'leamer']	10
+taler swift	1	['taler', 'swift']	10
+monster high move boo york boo york	1	['monster', 'high', 'move', 'boo', 'york', 'boo', 'york']	10
+why does the poler bear have white fur	1	['why', 'does', 'the', 'poler', 'bear', 'have', 'white', 'fur']	11
+Whoh played Ioin hide from transformers	1	['Whoh', 'played', 'Ioin', 'hide', 'from', 'transformers']	11
+how the chetta has spots	1	['how', 'the', 'chetta', 'has', 'spots']	11
+florider	1	['florider']	12
+tranksformers moviey	1	['tranksformers', 'moviey']	12
+When is the new ghost busters comeing out	1	['When', 'is', 'the', 'new', 'ghost', 'busters', 'comeing', 'out']	12
+spelling lity	1	['spelling', 'lity']	13
+cool math	1	['cool', 'math']	13
+armer games	1	['armer', 'games']	13
+who plays esan in the movie	1	['who', 'plays', 'esan', 'in', 'the', 'movie']	14
+is sloth the laziest animal	1	['is', 'sloth', 'the', 'laziest', 'animal']	14
+selelena gomez songs	1	['selelena', 'gomez', 'songs']	14
+frozen full movie online	1	['frozen', 'full', 'movie', 'online']	15
+when is Selena gomez new songs are coming out	1	['when', 'is', 'Selena', 'gomez', 'new', 'songs', 'are', 'coming', 'out']	15
+google classroom	1	['google', 'classroom']	15
+How does black and whitee cats look like	1	['How', 'does', 'black', 'and', 'whitee', 'cats', 'look', 'like']	16
+Who palyed kyioren	1	['Who', 'palyed', 'kyioren']	16
+Why do spiders have venom	1	['Why', 'do', 'spiders', 'have', 'venom']	16
+star wars episode 7	1	['star', 'wars', 'episode', '7']	17
+When is the new finding nemo movie comieng out	1	['When', 'is', 'the', 'new', 'finding', 'nemo', 'movie', 'comieng', 'out']	17
+Presedians	1	['Presedians']	17
+movies	1	['movies']	18
+shows	1	['shows']	18
+Highschool musical 2	1	['Highschool', 'musical', '2']	18
+Who was the actor for troy in highschool musical?	1	['Who', 'was', 'the', 'actor', 'for', 'troy', 'in', 'highschool', 'musical', '?']	19
+how long have lions been extirced	1	['how', 'long', 'have', 'lions', 'been', 'extirced']	19
+what song has these words in it	1	['what', 'song', 'has', 'these', 'words', 'in', 'it']	19
+Highschool musical	1	['Highschool', 'musical']	20
+how many miles is it to the moon?	1	['how', 'many', 'miles', 'is', 'it', 'to', 'the', 'moon', '?']	20
+weather	2	['weather']	20
+facrs	1	['facrs']	21
+The actor of oh from home	1	['The', 'actor', 'of', 'oh', 'from', 'home']	21
+Facts about pigs	1	['Facts', 'about', 'pigs']	21
+whatsthatsong.net	1	['whatsthatsong.net']	22
+Jurrasic wortl	1	['Jurrasic', 'wortl']	22
+When is Pokemon sun and moon coming out	1	['When', 'is', 'Pokemon', 'sun', 'and', 'moon', 'coming', 'out']	22
+Google docs	1	['Google', 'docs']	23
+images for project	1	['images', 'for', 'project']	23
+games	3	['games']	23
+images for fun	1	['images', 'for', 'fun']	24
+Who plays baymax?	1	['Who', 'plays', 'baymax', '?']	24
+What is a bear?	1	['What', 'is', 'a', 'bear', '?']	24
+Who is the name of a Macdre song?	1	['Who', 'is', 'the', 'name', 'of', 'a', 'Macdre', 'song', '?']	25
+Draft Day movie	1	['Draft', 'Day', 'movie']	25
+oldest person ever	1	['oldest', 'person', 'ever']	25
+websites for facts	1	['websites', 'for', 'facts']	26
+images	1	['images']	26
+Alrin and the chickmuelcs  	1	['Alrin', 'and', 'the', 'chickmuelcs']	26
+Why do flamingo get there feey on to other	1	['Why', 'do', 'flamingo', 'get', 'there', 'feey', 'on', 'to', 'other']	27
+Songs buy Charlie Puth	1	['Songs', 'buy', 'Charlie', 'Puth']	27
+titanic full movie	1	['titanic', 'full', 'movie']	27
+how many four movies are there	1	['how', 'many', 'four', 'movies', 'are', 'there']	28
+i skarch of word work	1	['i', 'skarch', 'of', 'word', 'work']	28
+Who plays Harry Potter	1	['Who', 'plays', 'Harry', 'Potter']	28
+fact on tigers	1	['fact', 'on', 'tigers']	29
+Songs by talor swift	1	['Songs', 'by', 'talor', 'swift']	29
+Harry potter sward in the stone	1	['Harry', 'potter', 'sward', 'in', 'the', 'stone']	29
+Who is the 30th president of the usa	1	['Who', 'is', 'the', '30th', 'president', 'of', 'the', 'usa']	30
+weather	2	['weather']	30
+games	3	['games']	30
+who was the huray in the moive the Larax?	1	['who', 'was', 'the', 'huray', 'in', 'the', 'moive', 'the', 'Larax', '?']	31
+Facts about dogs	1	['Facts', 'about', 'dogs']	31
+why is the sun hot	1	['why', 'is', 'the', 'sun', 'hot']	31
+Fast and the furiouse cast	1	['Fast', 'and', 'the', 'furiouse', 'cast']	32
+monkeys	1	['monkeys']	32
+Deathly Hallows part 2	1	['Deathly', 'Hallows', 'part', '2']	32
+new finding nemo movie	1	['new', 'finding', 'nemo', 'movie']	33
+give me information about a giraf	1	['give', 'me', 'information', 'about', 'a', 'giraf']	33
+finding nemo movie	1	['finding', 'nemo', 'movie']	33
+how do scintest know all of this knoledg	1	['how', 'do', 'scintest', 'know', 'all', 'of', 'this', 'knoledg']	34
+youtube videos	1	['youtube', 'videos']	34
+math problems	1	['math', 'problems']	34
+from superman	1	['from', 'superman']	35
+facts about tigers	1	['facts', 'about', 'tigers']	35
+new maclelamore song	1	['new', 'maclelamore', 'song']	35
+Superman movie	1	['Superman', 'movie']	36
+how do seahorces swim	1	['how', 'do', 'seahorces', 'swim']	36
+basketball cards	1	['basketball', 'cards']	36
+lighting rods	1	['lighting', 'rods']	37
+Actor of Hulk in Avengers	1	['Actor', 'of', 'Hulk', 'in', 'Avengers']	37
+Info on foxes	1	['Info', 'on', 'foxes']	37
+G-Fazzy newst song	1	['G-Fazzy', 'newst', 'song']	38
+Avengers movie	1	['Avengers', 'movie']	38
+Date of Jonh F Kennady's death	1	"['Date', 'of', 'Jonh', 'F', 'Kennady', ""'s"", 'death']"	38
+TTM 	1	['TTM']	39
+youtube	4	['youtube']	39
+How is b-b-8 so real?	1	['How', 'is', 'b-b-8', 'so', 'real', '?']	39
+Wgat is so important about tigers	1	['Wgat', 'is', 'so', 'important', 'about', 'tigers']	40
+What is the weeknds most famous song	1	['What', 'is', 'the', 'weeknds', 'most', 'famous', 'song']	40
+The new starwars	1	['The', 'new', 'starwars']	40
+When is the new ghost busters coming out	1	['When', 'is', 'the', 'new', 'ghost', 'busters', 'coming', 'out']	41
+Parts of speech	1	['Parts', 'of', 'speech']	41
+funny dog pictures	1	['funny', 'dog', 'pictures']	41
+Who played sander in The Walking Dead	1	['Who', 'played', 'sander', 'in', 'The', 'Walking', 'Dead']	42
+How long can a Draffs neck	1	['How', 'long', 'can', 'a', 'Draffs', 'neck']	42
+I'm going home	1	"['I', ""'m"", 'going', 'home']"	42
+The walking dead	1	['The', 'walking', 'dead']	43
+when is the next season of stanly supperre humans	1	['when', 'is', 'the', 'next', 'season', 'of', 'stanly', 'supperre', 'humans']	43
+youtube	4	['youtube']	43
+String explosin	1	['String', 'explosin']	44
+How did Anabell flote	1	['How', 'did', 'Anabell', 'flote']	44
+Why are poler Bear white	1	['Why', 'are', 'poler', 'Bear', 'white']	44
+When I'm your go to miss me	1	"['When', 'I', ""'m"", 'your', 'go', 'to', 'miss', 'me']"	45
+Anabell	1	['Anabell']	45
+When is season 5 Vingis comeing out	1	['When', 'is', 'season', '5', 'Vingis', 'comeing', 'out']	45
+YouTub	1	['YouTub']	46
+I like Insidous 1 2 and 3	1	['I', 'like', 'Insidous', '1', '2', 'and', '3']	46
+What was Lucy (from chronicels of Narnia) age	1	['What', 'was', 'Lucy', '(', 'from', 'chronicels', 'of', 'Narnia', ')', 'age']	46
+Why do dogs wag their tail	1	['Why', 'do', 'dogs', 'wag', 'their', 'tail']	47
+Whats the song I cut my hangs with some rusty kitchen sissors	1	['Whats', 'the', 'song', 'I', 'cut', 'my', 'hangs', 'with', 'some', 'rusty', 'kitchen', 'sissors']	47
+What the name of the movie based on a C.S Lewis book?	1	['What', 'the', 'name', 'of', 'the', 'movie', 'based', 'on', 'a', 'C.S', 'Lewis', 'book', '?']	47
+Is there a place in Africa named Kimberly	1	['Is', 'there', 'a', 'place', 'in', 'Africa', 'named', 'Kimberly']	48
+envirormental propums in missouri	1	['envirormental', 'propums', 'in', 'missouri']	48
+When does the new m donlads goin to be buiolt	1	['When', 'does', 'the', 'new', 'm', 'donlads', 'goin', 'to', 'be', 'buiolt']	48
+Star Wars who plays Kylo ren	1	['Star', 'Wars', 'who', 'plays', 'Kylo', 'ren']	49
+Drake	1	['Drake']	49
+When is star wars going to come out	1	['When', 'is', 'star', 'wars', 'going', 'to', 'come', 'out']	49
+How old can chewbacca get	1	['How', 'old', 'can', 'chewbacca', 'get']	50
+How does a wolf catch its prey	1	['How', 'does', 'a', 'wolf', 'catch', 'its', 'prey']	50
+what is love	1	['what', 'is', 'love']	50
+Star Wars	1	['Star', 'Wars']	51
+When will be a full moon this year	1	['When', 'will', 'be', 'a', 'full', 'moon', 'this', 'year']	51
+Caculator	1	['Caculator']	51
+Assassin's Creed	1	"['Assassin', ""'s"", 'Creed']"	52
+Who plays the good terminater in Terminater two	1	['Who', 'plays', 'the', 'good', 'terminater', 'in', 'Terminater', 'two']	52
+Information about tigers	1	['Information', 'about', 'tigers']	52
+When is the new Finding Dory coming out	1	['When', 'is', 'the', 'new', 'Finding', 'Dory', 'coming', 'out']	53
+how old is Han Solo in the new star wars movie	1	['how', 'old', 'is', 'Han', 'Solo', 'in', 'the', 'new', 'star', 'wars', 'movie']	53
+how many Star wars movies have Han solo in them?	1	['how', 'many', 'Star', 'wars', 'movies', 'have', 'Han', 'solo', 'in', 'them', '?']	53
+How many cheetahs are in the world?	1	['How', 'many', 'cheetahs', 'are', 'in', 'the', 'world', '?']	54
+"What son has ""clapalong if you feel"" in it?"	1	"['What', 'son', 'has', '``', 'clapalong', 'if', 'you', 'feel', ""''"", 'in', 'it', '?']"	54
+Order kungfu panda	1	['Order', 'kungfu', 'panda']	54
+How many Star Wars movies will be made?	1	['How', 'many', 'Star', 'Wars', 'movies', 'will', 'be', 'made', '?']	55
+How do they make the chewey voice starwars	1	['How', 'do', 'they', 'make', 'the', 'chewey', 'voice', 'starwars']	55
+monkey info	1	['monkey', 'info']	55
+mincraft songs	1	['mincraft', 'songs']	56
+star wars ep. 5	1	['star', 'wars', 'ep', '.', '5']	56
+How old is the wookie	1	['How', 'old', 'is', 'the', 'wookie']	56
+mamoth facts	1	['mamoth', 'facts']	57
+How old is TinkleBell	1	['How', 'old', 'is', 'TinkleBell']	57
+What is the movie called with a Doll named Anebelle?	1	['What', 'is', 'the', 'movie', 'called', 'with', 'a', 'Doll', 'named', 'Anebelle', '?']	57
+When is finding Dory coming out?	1	['When', 'is', 'finding', 'Dory', 'coming', 'out', '?']	58
+How much are the Justin beiber tickets	1	['How', 'much', 'are', 'the', 'Justin', 'beiber', 'tickets']	58
+Online calculator for math	1	['Online', 'calculator', 'for', 'math']	58
+What is the color of a leopard	1	['What', 'is', 'the', 'color', 'of', 'a', 'leopard']	59
+Who's lukes mom?	1	"['Who', ""'s"", 'lukes', 'mom', '?']"	59
+how old can dogs grow to be	1	['how', 'old', 'can', 'dogs', 'grow', 'to', 'be']	59
+starwars episode the force returns	1	['starwars', 'episode', 'the', 'force', 'returns']	60
+when does far cry primal come out for xbox360	1	['when', 'does', 'far', 'cry', 'primal', 'come', 'out', 'for', 'xbox360']	60
+How old DJ is in Fuller House	1	['How', 'old', 'DJ', 'is', 'in', 'Fuller', 'House']	60
+Why are Polar bears white	1	['Why', 'are', 'Polar', 'bears', 'white']	61
+Anibelle	1	['Anibelle']	61
+When will they make more episodes of Fuller House	1	['When', 'will', 'they', 'make', 'more', 'episodes', 'of', 'Fuller', 'House']	61
+youtube	4	['youtube']	62
+Who plays Kylo Ren from StarWars?	1	['Who', 'plays', 'Kylo', 'Ren', 'from', 'StarWars', '?']	62
+What are coll fact about a horse?	1	['What', 'are', 'coll', 'fact', 'about', 'a', 'horse', '?']	62
+"What songs has a name with the lyrics of ""You use to call my on my self phone"""	1	"['What', 'songs', 'has', 'a', 'name', 'with', 'the', 'lyrics', 'of', '``', 'You', 'use', 'to', 'call', 'my', 'on', 'my', 'self', 'phone', ""''""]"	63
+Star Wars Ep. 7	1	['Star', 'Wars', 'Ep', '.', '7']	63
+How do Feathre's grow	1	"['How', 'do', 'Feathre', ""'s"", 'grow']"	63
+How do lights work	1	['How', 'do', 'lights', 'work']	64
+Images of dragons	1	['Images', 'of', 'dragons']	64
+ how did paul Walker die	1	['how', 'did', 'paul', 'Walker', 'die']	64
+Sloth	1	['Sloth']	65
+Fast and Furiouse	1	['Fast', 'and', 'Furiouse']	65
+How old Star Wars is	1	['How', 'old', 'Star', 'Wars', 'is']	65
+Star wars	2	['Star', 'wars']	66
+How old is Johny enlgish?	1	['How', 'old', 'is', 'Johny', 'enlgish', '?']	66
+facts on Sabertooth tigers	1	['facts', 'on', 'Sabertooth', 'tigers']	66
+Johny english reborn movie	1	['Johny', 'english', 'reborn', 'movie']	67
+new movies 2016	1	['new', 'movies', '2016']	67
+games	3	['games']	67
+how fast is flash	1	['how', 'fast', 'is', 'flash']	68
+why are grizzly Bares Brown	1	['why', 'are', 'grizzly', 'Bares', 'Brown']	68
+songs for 5th graders	1	['songs', 'for', '5th', 'graders']	68
+Netflix	1	['Netflix']	69
+What do foxes eat	1	['What', 'do', 'foxes', 'eat']	69
+picts of dragons	1	['picts', 'of', 'dragons']	69
+The Incredibles	1	['The', 'Incredibles']	70
+who voiced Mr.Incredible	1	['who', 'voiced', 'Mr.Incredible']	70
+how long are giraffes necks	1	['how', 'long', 'are', 'giraffes', 'necks']	70
+the Incredibles	1	['the', 'Incredibles']	71
+facts about Ufos	1	['facts', 'about', 'Ufos']	71
+five night at freddys	1	['five', 'night', 'at', 'freddys']	71
+who played Gorden	1	['who', 'played', 'Gorden']	72
+facts about lizards	1	['facts', 'about', 'lizards']	72
+Who plays Kylo Ren in the new Star wars	1	['Who', 'plays', 'Kylo', 'Ren', 'in', 'the', 'new', 'Star', 'wars']	72
+Facts about geckos	1	['Facts', 'about', 'geckos']	73
+Star Wars the Force Awakens	1	['Star', 'Wars', 'the', 'Force', 'Awakens']	73
+When is the new Guardians of the Galaxy going to come out	1	['When', 'is', 'the', 'new', 'Guardians', 'of', 'the', 'Galaxy', 'going', 'to', 'come', 'out']	73
+Computer games	1	['Computer', 'games']	74
+Sumdog Math games	1	['Sumdog', 'Math', 'games']	74
+Who plays the villain in Ant-man	1	['Who', 'plays', 'the', 'villain', 'in', 'Ant-man']	74
+How long is a lions Lifespan?	1	['How', 'long', 'is', 'a', 'lions', 'Lifespan', '?']	75
+Ant-man movie	1	['Ant-man', 'movie']	75
+When is Batman v. Superman coming out?	1	['When', 'is', 'Batman', 'v.', 'Superman', 'coming', 'out', '?']	75
+Youtube	1	['Youtube']	76
+math games	1	['math', 'games']	76
+How long can a polr bear swin under water?	1	['How', 'long', 'can', 'a', 'polr', 'bear', 'swin', 'under', 'water', '?']	76
+When will the movie Zootopia come out	1	['When', 'will', 'the', 'movie', 'Zootopia', 'come', 'out']	77
+Pointless website	1	['Pointless', 'website']	77
+world war II pictures	1	['world', 'war', 'II', 'pictures']	77
+Who plays the rabbit from the movie H.O.P.?	1	['Who', 'plays', 'the', 'rabbit', 'from', 'the', 'movie', 'H.O.P', '.', '?']	78
+name of my Favourite movie	1	['name', 'of', 'my', 'Favourite', 'movie']	78
+When is the new movie Race about Jessie Owens coming out on DVD	1	['When', 'is', 'the', 'new', 'movie', 'Race', 'about', 'Jessie', 'Owens', 'coming', 'out', 'on', 'DVD']	78
+staggering bautey (a game)	1	['staggering', 'bautey', '(', 'a', 'game', ')']	79
+Who plays in the new goose bumps?	1	['Who', 'plays', 'in', 'the', 'new', 'goose', 'bumps', '?']	79
+How fast can a Cheeta run?	1	['How', 'fast', 'can', 'a', 'Cheeta', 'run', '?']	79
+What is the new son by son and son?	1	['What', 'is', 'the', 'new', 'son', 'by', 'son', 'and', 'son', '?']	80
+Fuller House Full episodes	1	['Fuller', 'House', 'Full', 'episodes']	80
+When is Fuller House coming out?	1	['When', 'is', 'Fuller', 'House', 'coming', 'out', '?']	80
+How to multiply a fraction by a fraction?	1	['How', 'to', 'multiply', 'a', 'fraction', 'by', 'a', 'fraction', '?']	81
+Krois? How dose dame not die in the last part	1	['Krois', '?', 'How', 'dose', 'dame', 'not', 'die', 'in', 'the', 'last', 'part']	81
+ How dose the snake five the venom	1	['How', 'dose', 'the', 'snake', 'five', 'the', 'venom']	81
+The lirycs of the song	1	['The', 'lirycs', 'of', 'the', 'song']	82
+the tittle of the movie	1	['the', 'tittle', 'of', 'the', 'movie']	82
+about April something	1	['about', 'April', 'something']	82
+school games	1	['school', 'games']	83
+cool cars	1	['cool', 'cars']	83
+who plays as the man of steel	1	['who', 'plays', 'as', 'the', 'man', 'of', 'steel']	83
+when will the new movie is coming out	1	['when', 'will', 'the', 'new', 'movie', 'is', 'coming', 'out']	84
+my favourite movie	1	['my', 'favourite', 'movie']	84
+who sang a song called watch me whip nae	1	['who', 'sang', 'a', 'song', 'called', 'watch', 'me', 'whip', 'nae']	84
+Batman vs superman 	1	['Batman', 'vs', 'superman']	85
+the minions movie	1	['the', 'minions', 'movie']	85
+information of words	1	['information', 'of', 'words']	85
+sports and news	1	['sports', 'and', 'news']	86
+Who is the voice for Dory in Finding Nemo?	1	['Who', 'is', 'the', 'voice', 'for', 'Dory', 'in', 'Finding', 'Nemo', '?']	86
+How long can a shark live for	1	['How', 'long', 'can', 'a', 'shark', 'live', 'for']	86
+Mama ohohoh song	1	['Mama', 'ohohoh', 'song']	87
+Starwars	1	['Starwars']	87
+When is the next StarWars movie coming out	1	['When', 'is', 'the', 'next', 'StarWars', 'movie', 'coming', 'out']	87
+MIG games	1	['MIG', 'games']	88
+google docs	1	['google', 'docs']	88
+How old are the kids now in Stand By Me?	1	['How', 'old', 'are', 'the', 'kids', 'now', 'in', 'Stand', 'By', 'Me', '?']	88
+What sound does a girrafe make?	1	['What', 'sound', 'does', 'a', 'girrafe', 'make', '?']	89
+Hello it's me	1	"['Hello', 'it', ""'s"", 'me']"	89
+movie Zootopia	1	['movie', 'Zootopia']	89
+How old is google?	1	['How', 'old', 'is', 'google', '?']	90
+facts information	1	['facts', 'information']	90
+youtube	4	['youtube']	90
+How old is Ray from StarWars?	1	['How', 'old', 'is', 'Ray', 'from', 'StarWars', '?']	91
+How many breeds of Dogs are there?	1	['How', 'many', 'breeds', 'of', 'Dogs', 'are', 'there', '?']	91
+Songs by Adele	1	['Songs', 'by', 'Adele']	91
+Spirited away	1	['Spirited', 'away']	92
+When is Zootopia coming out?	1	['When', 'is', 'Zootopia', 'coming', 'out', '?']	92
+ideas for poems	1	['ideas', 'for', 'poems']	92
+games to play when you board	1	['games', 'to', 'play', 'when', 'you', 'board']	93
+Billbow - Bagan in the Hobbit	1	['Billbow', '-', 'Bagan', 'in', 'the', 'Hobbit']	93
+A whole with a horn	1	['A', 'whole', 'with', 'a', 'horn']	93
+What songs does Jeff play?	1	['What', 'songs', 'does', 'Jeff', 'play', '?']	94
+"What is the movie ""The Secret life of pets"""	1	"['What', 'is', 'the', 'movie', '``', 'The', 'Secret', 'life', 'of', 'pets', ""''""]"	94
+Who plays Nemo in finding Nemo?	1	['Who', 'plays', 'Nemo', 'in', 'finding', 'Nemo', '?']	94
+How plays the Rafe on teenager mutan	1	['How', 'plays', 'the', 'Rafe', 'on', 'teenager', 'mutan']	95
+Star wars	2	['Star', 'wars']	95
+calculator	1	['calculator']	95
+Who voices Mabel in Gravity Falls?	1	['Who', 'voices', 'Mabel', 'in', 'Gravity', 'Falls', '?']	96
+The Alpaca	1	['The', 'Alpaca']	96
+Math games	1	['Math', 'games']	96
+Dan and Phil	1	['Dan', 'and', 'Phil']	97
+Who plays Kylo Ren in the new Star wars movie?	1	['Who', 'plays', 'Kylo', 'Ren', 'in', 'the', 'new', 'Star', 'wars', 'movie', '?']	97
+How long can a wolf live?	1	['How', 'long', 'can', 'a', 'wolf', 'live', '?']	97
+What is the ame of the song with the lyrics ? Now watch me whip watch me nay nay!	1	['What', 'is', 'the', 'ame', 'of', 'the', 'song', 'with', 'the', 'lyrics', '?', 'Now', 'watch', 'me', 'whip', 'watch', 'me', 'nay', 'nay', '!']	98
+start wars	1	['start', 'wars']	98
+When does summer break start?	1	['When', 'does', 'summer', 'break', 'start', '?']	98
+What was the best video game at 2015?	1	['What', 'was', 'the', 'best', 'video', 'game', 'at', '2015', '?']	99
+What is the capitol of New York?	1	['What', 'is', 'the', 'capitol', 'of', 'New', 'York', '?']	99
+Who plays the bad guy in Star Wars the Horde awakends?	1	['Who', 'plays', 'the', 'bad', 'guy', 'in', 'Star', 'Wars', 'the', 'Horde', 'awakends', '?']	99
+What is a fox's favorite kind of food?	1	"['What', 'is', 'a', 'fox', ""'s"", 'favorite', 'kind', 'of', 'food', '?']"	100
+"Show me the movie called ""The Martian"""	1	"['Show', 'me', 'the', 'movie', 'called', '``', 'The', 'Martian', ""''""]"	100
+What is the biggest rock found on Mars?	1	['What', 'is', 'the', 'biggest', 'rock', 'found', 'on', 'Mars', '?']	100
+What is the top game this week?	1	['What', 'is', 'the', 'top', 'game', 'this', 'week', '?']	101
+NBA Allstar	1	['NBA', 'Allstar']	101
+NOKIA N71	1	['NOKIA', 'N71']	101
+NSAMeeting.com	1	['NSAMeeting.com']	102
+NY Giants	1	['NY', 'Giants']	102
+NY LOTTERY	1	['NY', 'LOTTERY']	102
+Nanny Express	1	['Nanny', 'Express']	103
+Navigation to the webpage was canceled What you can try:	1	['Navigation', 'to', 'the', 'webpage', 'was', 'canceled', 'What', 'you', 'can', 'try', ':']	103
+New England Coffee	1	['New', 'England', 'Coffee']	103
+New I-9 Form	1	['New', 'I-9', 'Form']	104
+Nijmegen	1	['Nijmegen']	104
+Nyheter dygnet runt	1	['Nyheter', 'dygnet', 'runt']	104
+OBAMA INAUGURATION BALL	1	['OBAMA', 'INAUGURATION', 'BALL']	105
+PL	1	['PL']	105
+ONLINE CALENDAR	1	['ONLINE', 'CALENDAR']	105
+Obama bailout plan	1	['Obama', 'bailout', 'plan']	106
+Ocean Pointe Suites at Key Largo	1	['Ocean', 'Pointe', 'Suites', 'at', 'Key', 'Largo']	106
+Oceanic Time Warner	1	['Oceanic', 'Time', 'Warner']	106
+Oklahoma Unclaimed Property	1	['Oklahoma', 'Unclaimed', 'Property']	107
+One More Level.com	1	['One', 'More', 'Level.com']	107
+PHIMHONGKONG	1	['PHIMHONGKONG']	107
+PINK PANTHER 2	1	['PINK', 'PANTHER', '2']	108
+PINOYGUNS	1	['PINOYGUNS']	108
+POKERSTAR	1	['POKERSTAR']	108
+POLYSTYRENE	1	['POLYSTYRENE']	109
+PORTRAIT INOVATIONS	1	['PORTRAIT', 'INOVATIONS']	109
+PPMD	1	['PPMD']	109
+PRINCIPAL BUSINESS CODES	1	['PRINCIPAL', 'BUSINESS', 'CODES']	110
+PUP.EDU.PH	1	['PUP.EDU.PH']	110
+Paige	1	['Paige']	110
+Palace	1	['Palace']	111
+Panic! at the disco	1	['Panic', '!', 'at', 'the', 'disco']	111
+Peak District National Park	1	['Peak', 'District', 'National', 'Park']	111
+Pearl Jam lyrics	1	['Pearl', 'Jam', 'lyrics']	112
+Penney Life Insurance	1	['Penney', 'Life', 'Insurance']	112
+Pentecostal Bible Studies	1	['Pentecostal', 'Bible', 'Studies']	112
+Pitbull	1	['Pitbull']	113
+Post Office Nearest	1	['Post', 'Office', 'Nearest']	113
+Price of Gold	1	['Price', 'of', 'Gold']	113
+Prilosec OTC	1	['Prilosec', 'OTC']	114
+ProForm Quick Burn SpaceSaver Elliptical	1	['ProForm', 'Quick', 'Burn', 'SpaceSaver', 'Elliptical']	114
+Project Risk Management	1	['Project', 'Risk', 'Management']	114
+Suncellular	1	['Suncellular']	115
+Sylvia Marie Likens	1	['Sylvia', 'Marie', 'Likens']	115
+T-max	1	['T-max']	115
+TUBE9	1	['TUBE9']	116
+Tactics Arena Online	1	['Tactics', 'Arena', 'Online']	116
+Tahiti	1	['Tahiti']	116
+Tanay Rodney Jackson	1	['Tanay', 'Rodney', 'Jackson']	117
+Tanning Lotions	1	['Tanning', 'Lotions']	117
+airline passenger forced	1	['airline', 'passenger', 'forced']	117
+Testosteron	1	['Testosteron']	118
+The Americans with Disabilities Act	1	['The', 'Americans', 'with', 'Disabilities', 'Act']	118
+The Book of Revelation	1	['The', 'Book', 'of', 'Revelation']	118
+The Liver	1	['The', 'Liver']	119
+The Perfect Dog	1	['The', 'Perfect', 'Dog']	119
+The Turtles	1	['The', 'Turtles']	119
+This program cannot display the webpage	1	['This', 'program', 'can', 'not', 'display', 'the', 'webpage']	120
+Times Publishing	1	['Times', 'Publishing']	120
+Titan insurance	1	['Titan', 'insurance']	120
+Tougaloo College	1	['Tougaloo', 'College']	121
+Trick Flow Specialties	1	['Trick', 'Flow', 'Specialties']	121
+Troy Sports Center	1	['Troy', 'Sports', 'Center']	121
+U of A	1	['U', 'of', 'A']	122
+ULTRA FOOD	1	['ULTRA', 'FOOD']	122
+USC housing	1	['USC', 'housing']	122
+USFSA	1	['USFSA']	123
+UTG MK96	1	['UTG', 'MK96']	123
+University of California San Francisco	1	['University', 'of', 'California', 'San', 'Francisco']	123
+University of Texas at Austin	1	['University', 'of', 'Texas', 'at', 'Austin']	124
+University of York	1	['University', 'of', 'York']	124
+VALOIS	1	['VALOIS']	124
+VANTAGE	1	['VANTAGE']	125
+alcohol and fibromyalgia	1	['alcohol', 'and', 'fibromyalgia']	125
+alligenceairway	1	['alligenceairway']	125
+alltherage	1	['alltherage']	126
+aloha sol	1	['aloha', 'sol']	126
+alpha bank	1	['alpha', 'bank']	126
+alpha source	1	['alpha', 'source']	127
+alrojovivo noticias	1	['alrojovivo', 'noticias']	127
+altered beast forum	1	['altered', 'beast', 'forum']	127
+amansblogsite	1	['amansblogsite']	128
+amarillo sour drink recipe	1	['amarillo', 'sour', 'drink', 'recipe']	128
+amateur athletic union	1	['amateur', 'athletic', 'union']	128
+amateur crossdressers	1	['amateur', 'crossdressers']	129
+amateur gang bang	1	['amateur', 'gang', 'bang']	129
+amaz0n	1	['amaz0n']	129
+ambassador east	1	['ambassador', 'east']	130
+ambulance sound effects	1	['ambulance', 'sound', 'effects']	130
+amc tyler 16	1	['amc', 'tyler', '16']	130
+amc.com/	1	['amc.com/']	131
+amendment 23	1	['amendment', '23']	131
+amercare	1	['amercare']	131
+american board of general dentistry	1	['american', 'board', 'of', 'general', 'dentistry']	132
+american egael outfitters	1	['american', 'egael', 'outfitters']	132
+american embassy nairobi	1	['american', 'embassy', 'nairobi']	132
+american girl doll hair care	1	['american', 'girl', 'doll', 'hair', 'care']	133
+american history figures	1	['american', 'history', 'figures']	133
+best buy account	1	['best', 'buy', 'account']	133
+best colleges 2009	1	['best', 'colleges', '2009']	134
+best crossword puzzle	1	['best', 'crossword', 'puzzle']	134
+best energy stocks	1	['best', 'energy', 'stocks']	134
+best gps deals	1	['best', 'gps', 'deals']	135
+best love novels	1	['best', 'love', 'novels']	135
+best professional digital camera	1	['best', 'professional', 'digital', 'camera']	135
+best rc truck	1	['best', 'rc', 'truck']	136
+best songs of the 80s and 90s	1	['best', 'songs', 'of', 'the', '80s', 'and', '90s']	136
+best video player	1	['best', 'video', 'player']	136
+best walking shoes for babies	1	['best', 'walking', 'shoes', 'for', 'babies']	137
+best western danville va	1	['best', 'western', 'danville', 'va']	137
+bestbuty	1	['bestbuty']	137
+bestusedtrucks.com	1	['bestusedtrucks.com']	138
+bethany mennonite church	1	['bethany', 'mennonite', 'church']	138
+bethesda north hospital	1	['bethesda', 'north', 'hospital']	138
+betley	1	['betley']	139
+betsey johnson coats	1	['betsey', 'johnson', 'coats']	139
+betty bowers	1	['betty', 'bowers']	139
+bg pop folk	1	['bg', 'pop', 'folk']	140
+bgz pl	1	['bgz', 'pl']	140
+bhgtv	1	['bhgtv']	140
+bianca's handcuff page	1	"['bianca', ""'s"", 'handcuff', 'page']"	141
+bibbero	1	['bibbero']	141
+bible doctrines	1	['bible', 'doctrines']	141
+bible glossary	1	['bible', 'glossary']	142
+bible in a year	1	['bible', 'in', 'a', 'year']	142
+bible verses for strength	1	['bible', 'verses', 'for', 'strength']	142
+bibliotecas online	1	['bibliotecas', 'online']	143
+bietet unter anderem	1	['bietet', 'unter', 'anderem']	143
+chasecreditcardservices	1	['chasecreditcardservices']	143
+chateau lemoyne new orleans	1	['chateau', 'lemoyne', 'new', 'orleans']	144
+chattahoochee river park	1	['chattahoochee', 'river', 'park']	144
+cheap auto insurance online	1	['cheap', 'auto', 'insurance', 'online']	144
+cheap big johnson t-shirts	1	['cheap', 'big', 'johnson', 't-shirts']	145
+cheap dog crates	1	['cheap', 'dog', 'crates']	145
+cheap fitness clothes	1	['cheap', 'fitness', 'clothes']	145
+cheapmovies	1	['cheapmovies']	146
+cheat codes for gta vice city	1	['cheat', 'codes', 'for', 'gta', 'vice', 'city']	146
+cheat codes for sims 2 ps2	1	['cheat', 'codes', 'for', 'sims', '2', 'ps2']	146
+cheats for naruto ultimate ninja heroes	1	['cheats', 'for', 'naruto', 'ultimate', 'ninja', 'heroes']	147
+checkreoderexpress	1	['checkreoderexpress']	147
+csc events	1	['csc', 'events']	147
+ct state website	1	['ct', 'state', 'website']	148
+cuban flan recipe	1	['cuban', 'flan', 'recipe']	148
+cubs sweatshirts	1	['cubs', 'sweatshirts']	148
+cupoons	1	['cupoons']	149
+curises.com	1	['curises.com']	149
+currency exchange	1	['currency', 'exchange']	149
+current white house staff	1	['current', 'white', 'house', 'staff']	150
+curry college milton	1	['curry', 'college', 'milton']	150
+curvy bodies	1	['curvy', 'bodies']	150
+custom lowrider bikes	1	['custom', 'lowrider', 'bikes']	151
+custom photo birth announcements	1	['custom', 'photo', 'birth', 'announcements']	151
+custom slipcovers	1	['custom', 'slipcovers']	151
+cutterbee	1	['cutterbee']	152
+cvs coupon	1	['cvs', 'coupon']	152
+cyberlink power dvd update	1	['cyberlink', 'power', 'dvd', 'update']	152
+cynthia lummis	1	['cynthia', 'lummis']	153
+fanatico restaurant	1	['fanatico', 'restaurant']	153
+fansnap	1	['fansnap']	153
+fantasy springs casino indio	1	['fantasy', 'springs', 'casino', 'indio']	154
+fast food design	1	['fast', 'food', 'design']	154
+fast now	1	['fast', 'now']	154
+fat loss pills	1	['fat', 'loss', 'pills']	155
+fatal motorcycle accidents pictures	1	['fatal', 'motorcycle', 'accidents', 'pictures']	155
+fco airport	1	['fco', 'airport']	155
+federal bullets ammunition	1	['federal', 'bullets', 'ammunition']	156
+federal correction institute	1	['federal', 'correction', 'institute']	156
+federal employee holidays	1	['federal', 'employee', 'holidays']	156
+federal reserve history	1	['federal', 'reserve', 'history']	157
+fedricks of hollwood	1	['fedricks', 'of', 'hollwood']	157
+feline health questions	1	['feline', 'health', 'questions']	157
+fema.com	1	['fema.com']	158
+female celebrities with short hair	1	['female', 'celebrities', 'with', 'short', 'hair']	158
+female porn	1	['female', 'porn']	158
+gemelli	1	['gemelli']	159
+gender history	1	['gender', 'history']	159
+geneva construction	1	['geneva', 'construction']	159
+george lopez daughter	1	['george', 'lopez', 'daughter']	160
+georgia standards commission	1	['georgia', 'standards', 'commission']	160
+georgia tag office license plate	1	['georgia', 'tag', 'office', 'license', 'plate']	160
+germany road conditions	1	['germany', 'road', 'conditions']	161
+get off	1	['get', 'off']	161
+gezond eten recepten	1	['gezond', 'eten', 'recepten']	161
+ghi hmo	1	['ghi', 'hmo']	162
+ghost recon advanced warfighter walkthrough	1	['ghost', 'recon', 'advanced', 'warfighter', 'walkthrough']	162
+ghs jobs	1	['ghs', 'jobs']	162
+giants fan	1	['giants', 'fan']	163
+giausd	1	['giausd']	163
+gift ideas for her	1	['gift', 'ideas', 'for', 'her']	163
+gilroy hotels	1	['gilroy', 'hotels']	164
+giovanni prom dresses	1	['giovanni', 'prom', 'dresses']	164
+girl bunkbeds	1	['girl', 'bunkbeds']	164
+hershy pa	1	['hershy', 'pa']	165
+hidden agenda	1	['hidden', 'agenda']	165
+hidrofor	1	['hidrofor']	165
+hidrometeoroloski zavod srbije	1	['hidrometeoroloski', 'zavod', 'srbije']	166
+high school speeches	1	['high', 'school', 'speeches']	166
+highlightkids	1	['highlightkids']	166
+highlights for brunettes	1	['highlights', 'for', 'brunettes']	167
+hillary duff	1	['hillary', 'duff']	167
+hillsong from the inside out chords	1	['hillsong', 'from', 'the', 'inside', 'out', 'chords']	167
+hilton promotional code	1	['hilton', 'promotional', 'code']	168
+innovative educational media company that connects	1	['innovative', 'educational', 'media', 'company', 'that', 'connects']	168
+insectors	1	['insectors']	168
+inside.amcity.com	1	['inside.amcity.com']	169
+install new program	1	['install', 'new', 'program']	169
+instant tax services	1	['instant', 'tax', 'services']	169
+intellicast com	1	['intellicast', 'com']	170
+intentional communication without	1	['intentional', 'communication', 'without']	170
+interactive buddy 2 game skins	1	['interactive', 'buddy', '2', 'game', 'skins']	170
+interior journal	1	['interior', 'journal']	171
+lalatx	1	['lalatx']	171
+land for sale in indiana	1	['land', 'for', 'sale', 'in', 'indiana']	171
+land line phone companies	1	['land', 'line', 'phone', 'companies']	172
+land rover engines	1	['land', 'rover', 'engines']	172
+langham place	1	['langham', 'place']	172
+largest spider	1	['largest', 'spider']	173
+larry drew basketball	1	['larry', 'drew', 'basketball']	173
+larryfitzgerald	1	['larryfitzgerald']	173
+leshawn merritt	1	['leshawn', 'merritt']	174
+leupold scope bases and rings	1	['leupold', 'scope', 'bases', 'and', 'rings']	174
+lewis county tennessee	1	['lewis', 'county', 'tennessee']	174
+lewis palmer	1	['lewis', 'palmer']	175
+lexapro vs effexor	1	['lexapro', 'vs', 'effexor']	175
+lexibook	1	['lexibook']	175
+lexmark fax solutions software	1	['lexmark', 'fax', 'solutions', 'software']	176
+lexus of maplewood	1	['lexus', 'of', 'maplewood']	176
+ley federal del trabajo	1	['ley', 'federal', 'del', 'trabajo']	176
+lg 47lg50 review	1	['lg', '47lg50', 'review']	177
+lhcu.org	1	['lhcu.org']	177
+liberal vs conservative	1	['liberal', 'vs', 'conservative']	177
+lyrics chasing pavements adele	1	['lyrics', 'chasing', 'pavements', 'adele']	178
+lyrics for bad girl	1	['lyrics', 'for', 'bad', 'girl']	178
+lyrics man in the mirror	1	['lyrics', 'man', 'in', 'the', 'mirror']	178
+lyrics of learning to fall	1	['lyrics', 'of', 'learning', 'to', 'fall']	179
+lyrics thank you for being a friend	1	['lyrics', 'thank', 'you', 'for', 'being', 'a', 'friend']	179
+lyrics to electric feel by mgmt	1	['lyrics', 'to', 'electric', 'feel', 'by', 'mgmt']	179
+machine finders	1	['machine', 'finders']	180
+mactan real estate	1	['mactan', 'real', 'estate']	180
+madagascar 3	1	['madagascar', '3']	180
+madisonville state bank texas	1	['madisonville', 'state', 'bank', 'texas']	181
+maggiore car rental	1	['maggiore', 'car', 'rental']	181
+magnolia clinic in houston	1	['magnolia', 'clinic', 'in', 'houston']	181
+maynard cooper & gale p c	1	['maynard', 'cooper', '&', 'gale', 'p', 'c']	182
+mayo clinic cabbage soup diet recipe	1	['mayo', 'clinic', 'cabbage', 'soup', 'diet', 'recipe']	182
+mbam	1	['mbam']	182
+mbt fitness shoes	1	['mbt', 'fitness', 'shoes']	183
+mcafee threat center	1	['mcafee', 'threat', 'center']	183
+mcafeesecurity center	1	['mcafeesecurity', 'center']	183
+mcdonalds diet	1	['mcdonalds', 'diet']	184
+mcgregor medical san antonio	1	['mcgregor', 'medical', 'san', 'antonio']	184
+mcs puerto rico san juan	1	['mcs', 'puerto', 'rico', 'san', 'juan']	184
+negative predictive value	1	['negative', 'predictive', 'value']	185
+neil o'donnell stats	1	"['neil', ""o'donnell"", 'stats']"	185
+neil simon theatre	1	['neil', 'simon', 'theatre']	185
+nemacolin resort	1	['nemacolin', 'resort']	186
+neopetsx	1	['neopetsx']	186
+neoseeker action replay codes	1	['neoseeker', 'action', 'replay', 'codes']	186
+oscar best picture list	1	['oscar', 'best', 'picture', 'list']	187
+outdoor shoes	1	['outdoor', 'shoes']	187
+outdooralabama.com	1	['outdooralabama.com']	187
+outlaws motorcycle clubs	1	['outlaws', 'motorcycle', 'clubs']	188
+outrage	1	['outrage']	188
+outrigger maui el dorado	1	['outrigger', 'maui', 'el', 'dorado']	188
+ov video	1	['ov', 'video']	189
+overeaters ananymous	1	['overeaters', 'ananymous']	189
+pregancy questions	1	['pregancy', 'questions']	189
+pregnancy preparation	1	['pregnancy', 'preparation']	190
+pregnant black girls	1	['pregnant', 'black', 'girls']	190
+pregnant websites	1	['pregnant', 'websites']	190
+preissuchmaschine	1	['preissuchmaschine']	191
+premier card	1	['premier', 'card']	191
+ratatoue	1	['ratatoue']	191
+rate my teachers.com	1	['rate', 'my', 'teachers.com']	192
+rate your space	1	['rate', 'your', 'space']	192
+ratemybeaver.com	1	['ratemybeaver.com']	192
+rave motion pictures ridgmar 13 fort worth tx	1	['rave', 'motion', 'pictures', 'ridgmar', '13', 'fort', 'worth', 'tx']	193
+raven symone myspace	1	['raven', 'symone', 'myspace']	193
+raynauldsdisease	1	['raynauldsdisease']	193
+razboi intru cuvant	1	['razboi', 'intru', 'cuvant']	194
+rca 2000	1	['rca', '2000']	194
+rchobbies.com	1	['rchobbies.com']	194
+reading endorsement	1	['reading', 'endorsement']	195
+real estate NJ	1	['real', 'estate', 'NJ']	195
+sarasota herald tribune	1	['sarasota', 'herald', 'tribune']	195
+saratoga springs figure skating club home page	1	['saratoga', 'springs', 'figure', 'skating', 'club', 'home', 'page']	196
+sargento.com	1	['sargento.com']	196
+satureday night live	1	['satureday', 'night', 'live']	196
+savannh ga	1	['savannh', 'ga']	197
+sayers	1	['sayers']	197
+sc arts commission	1	['sc', 'arts', 'commission']	197
+soups for weight loss	1	['soups', 'for', 'weight', 'loss']	198
+south carolina state department of education	1	['south', 'carolina', 'state', 'department', 'of', 'education']	198
+south county mental health	1	['south', 'county', 'mental', 'health']	198
+south indian railway map	1	['south', 'indian', 'railway', 'map']	199
+southeastern credit union	1	['southeastern', 'credit', 'union']	199
+southern hills medical center	1	['southern', 'hills', 'medical', 'center']	199
+super street motorcycles	1	['super', 'street', 'motorcycles']	200
+superbowl sunday?	1	['superbowl', 'sunday', '?']	200
+superhry cz	1	['superhry', 'cz']	200
+superior motors	1	['superior', 'motors']	201
+supporta Java oppure	1	['supporta', 'Java', 'oppure']	201
+supreme ventures jamaica lottery results	1	['supreme', 'ventures', 'jamaica', 'lottery', 'results']	201
